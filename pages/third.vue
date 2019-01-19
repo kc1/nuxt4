@@ -1,0 +1,34 @@
+<template>
+   <div>
+       <Two/>
+       <Panel/>
+       <Three/>
+       <Four/>
+       </div> 
+</template>
+
+<script>
+import Two from '~/components/section2.vue'
+import Three from '~/components/section3.vue'
+import Four from '~/components/section4.vue'
+import VuetifyLogo from '~/components/VuetifyLogo.vue'
+import Menu from '~/components/menu.vue'
+import Carousel from '~/components/carousel.vue'
+import Panel from '~/components/detailSection.vue'
+
+
+export default {
+
+  components: {
+    Two,
+    Three,
+    Four,
+    Panel
+  }
+
+}
+</script>
+
+<style>
+
+</style>

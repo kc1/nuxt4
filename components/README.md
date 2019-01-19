@@ -5,3 +5,7 @@
 The components directory contains your Vue.js Components.
 
 _Nuxt.js doesn't supercharge these components._
+
+
+$ npm install --save nuxt-google-maps-module
+https://www.npmjs.com/package/nuxt-google-maps-module

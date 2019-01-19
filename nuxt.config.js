@@ -41,8 +41,12 @@ module.exports = {
   /*
   ** Nuxt.js modules
   */
-  modules: [
-  ],
+  modules:[], 
+    // ['nuxt-google-maps-module', {
+    //   /* module options */
+    //   key: 'GOOGLE MAPS KEY', // Default
+    // }],
+  
 
   /*
   ** Build configuration
