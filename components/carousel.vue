@@ -1,7 +1,19 @@
 <template>
+<section>
+ <v-card
+    class="mx-auto"
+    color="#26c6da"
+    dark
+    max-width="1200"
+  >
+
   <v-carousel>
     <v-carousel-item v-for="(item,i) in items" :key="i" :src="item.src"></v-carousel-item>
   </v-carousel>
+
+</v-card>
+
+</section>
 </template>
 
 

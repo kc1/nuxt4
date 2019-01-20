@@ -3,7 +3,7 @@
     class="mx-auto"
     color="#26c6da"
     dark
-    max-width="400"
+    max-width="1200"
   >
     <v-card-title>
       <!-- <v-icon
@@ -12,10 +12,9 @@
       >
         mdi-twitter
       </v-icon> -->
-      <span class="title font-weight-light">Twitter</span>
+      <!-- <span class="title font-weight-light">Twitter</span> -->
     </v-card-title>
 
-    <!-- <v-card-text class="headline font-weight-bold">{{myData.default.ad}}</v-card-text> -->
     <v-card-text class="headline font-weight-bold">{{myData.ad}}</v-card-text>
 
     <v-card-actions>

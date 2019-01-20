@@ -1,9 +1,12 @@
 <template>
    <div>
      
-       <!-- <Carousel/> -->
-       <Two/>
+       <!-- <Two/> -->
        <Card/>
+<br>
+<br>
+<br>
+       <Carousel/>
        <Panel/>
        <Three/>
        <Four/>
