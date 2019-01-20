@@ -2,14 +2,19 @@
    <div>
      
        <!-- <Two/> -->
+<br>
+<br>
        <Card/>
 <br>
 <br>
 <br>
        <Carousel/>
+<br>
+<br>
+<br>
        <Panel/>
-       <Three/>
-       <Four/>
+       <!-- <Three/> -->
+       <!-- <Four/> -->
        </div> 
 </template>
 

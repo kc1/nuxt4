@@ -1,6 +1,10 @@
 <template>
   <v-app id="inspire">
-    <v-expansion-panel>
+    <v-expansion-panel   class="mx-auto"
+    color="#26c6da"
+    dark
+    max-width="1200"
+ >
       <v-expansion-panel-content v-for="(item,i) in items" :key="i">
         <div slot="header">{{item.header}}</div>
         <v-card>
