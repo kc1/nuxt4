@@ -1,6 +1,9 @@
 <template>
    <div>
+     
+       <!-- <Carousel/> -->
        <Two/>
+       <Card/>
        <Panel/>
        <Three/>
        <Four/>
@@ -15,6 +18,7 @@ import VuetifyLogo from '~/components/VuetifyLogo.vue'
 import Menu from '~/components/menu.vue'
 import Carousel from '~/components/carousel.vue'
 import Panel from '~/components/detailSection.vue'
+import Card from '~/components/detailCard.vue'
 
 
 export default {
@@ -23,7 +27,9 @@ export default {
     Two,
     Three,
     Four,
-    Panel
+    Panel,
+    Card,
+    Carousel
   }
 
 }
@@ -32,3 +38,5 @@ export default {
 <style>
 
 </style>
+
+

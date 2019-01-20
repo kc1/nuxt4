@@ -1,6 +1,11 @@
    {
-      "id": 1,
-      "name": "Johnson, Smith, and Jones Co.",
-      "amount": 345.33,
-      "Remark": "Pays on time"
+      "title": 1,
+      "location": 1,
+      "street": "Johnson, Smith, and Jones Co.",
+      "city": "Johnson, Smith, and Jones Co.",
+      "state": "Johnson, Smith, and Jones Co.",
+      "zip": "Johnson, Smith, and Jones Co.",
+      "price": 345.33,
+      "ad": "Dividable double lot in downtown Windham, with city water, sewer and electricity hookups. The property is Zoned for multifamily.Due to an error in valuation, you have an opportunity to buy this property at half price. An identically sized and zoned adjacent property with a multi-family house is valued at over 200,000 with the land valued at over 45,000. Additionally, plans for building a multi-family structure will be included with the sale. Owner is leaving state, and wants quick sale. Serious offers only.-",
+      "terms": "Pays on time"
    }

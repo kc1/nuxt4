@@ -26,7 +26,7 @@
         white--text
         xs12
       >
-        &copy;2018 — <strong>Vuetify</strong>
+        &copy;2019 — <strong>The Open Land Company</strong>
       </v-flex>
     </v-layout>
   </v-footer>
@@ -34,16 +34,26 @@
 
 <script>
   export default {
-    data: () => ({
+     data: () => ({
       links: [
-        'Home',
-        'About Us',
-        'Team',
-        'Services',
-        'Blog',
-        'Contact Us'
+        '',
+        '',
+        '',
+        '',
+        '',
+        ''
       ]
     })
+    // data: () => ({
+    //   links: [
+    //     'Home',
+    //     'About Us',
+    //     'Team',
+    //     'Services',
+    //     'Blog',
+    //     'Contact Us'
+    //   ]
+    // })
   }
 </script>
 

@@ -8,10 +8,8 @@
         >
           <v-flex xs12 sm4 class="my-3">
             <div class="text-xs-center">
-              <h2 class="headline">The best way to start developing</h2>
-              <span class="subheading">
-                Cras facilisis mi vitae nunc 
-              </span>
+              <h2 class="headline">Land for sale</h2>
+              <span class="subheading">It's going cheap!</span>
             </div>
           </v-flex>
           <v-flex xs12>

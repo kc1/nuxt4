@@ -26,6 +26,12 @@
 </template>
 
 <script>
+  import * as data from '../static/info.json';
+  console.log(data); // output 'testing'
+  console.log('djfhsjdfhs'); // output 'testing'
+    //  text: data.default[key]
+  console.log('hi there'); // output 'testing'
+ 
 export default {
 
 }
