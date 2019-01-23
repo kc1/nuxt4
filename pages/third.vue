@@ -9,12 +9,9 @@
 <br>
 <br>
        <Carousel/>
-<br>
-<br>
-<br>
        <Panel/>
        <!-- <Three/> -->
-       <!-- <Four/> -->
+       <Four/>
        </div> 
 </template>
 
@@ -25,7 +22,7 @@ import Four from '~/components/section4.vue'
 import VuetifyLogo from '~/components/VuetifyLogo.vue'
 import Menu from '~/components/menu.vue'
 import Carousel from '~/components/carousel.vue'
-import Panel from '~/components/detailSection.vue'
+import Panel from '~/components/panel.vue'
 import Card from '~/components/detailCard.vue'
 
 
