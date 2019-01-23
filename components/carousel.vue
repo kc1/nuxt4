@@ -19,7 +19,7 @@
 
 <script>
   var cache = {};
-  const images = require.context('../static/', false, /\.png$/);
+  const images = require.context('../static/', false, /\.png$|\.jpg/);
   var imagesArray = Array.from(images.keys());
   // const images = ["./52lv.PNG", "./Capture1.PNG", "./maps.PNG"]
   console.log(images.keys());
