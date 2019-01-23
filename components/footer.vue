@@ -26,7 +26,7 @@
         white--text
         xs12
       >
-        &copy;2019 — <strong>The Open Land Company</strong>
+        &copy;2014-2019 — <strong>The Open Land Company</strong>
       </v-flex>
     </v-layout>
   </v-footer>

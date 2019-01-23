@@ -7,7 +7,7 @@
 
           <v-flex  >
             <v-expansion-panel  >
-              <v-expansion-panel-content  v-for="(item,i) in items" :key="i" style="background:#26c6da">
+              <v-expansion-panel-content  v-for="(item,i) in items" :key="i" style="background:#26c6da;color:white">
                 <div slot="header" class="headline font-weight-bold">{{item.header}}</div>
                 <v-card >
                   <v-card-text class="headline font-weight-bold">{{item.text}}</v-card-text>

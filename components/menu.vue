@@ -1,7 +1,7 @@
     <template>
       <v-toolbar color="indigo" dark>
         <v-toolbar-side-icon></v-toolbar-side-icon>
-        <v-toolbar-title class="white--text">Title</v-toolbar-title>
+        <v-toolbar-title class="white--text">Land For Sale</v-toolbar-title>
         <v-spacer></v-spacer>
         <v-toolbar-items class="hidden-sm-and-down">
            <v-btn flat v-for="action in toolbarActions" :key="action">{{action}}</v-btn>
