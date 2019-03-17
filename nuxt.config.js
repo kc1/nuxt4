@@ -2,7 +2,9 @@ const pkg = require('./package')
 
 module.exports = {
   mode: 'universal',
-
+generate: {
+    dir: 'my-dist'
+  },
   /*
   ** Headers of the page
   */
@@ -54,6 +56,9 @@ module.exports = {
   ** Build configuration
   */
   build: {
+    // publicPath: 'public/',
+
+
     /*
     ** You can extend webpack config here
     */

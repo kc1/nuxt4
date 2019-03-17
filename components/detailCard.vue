@@ -15,7 +15,7 @@
       <!-- <span class="title font-weight-light">Twitter</span> -->
     </v-card-title>
 
-    <v-card-text class="headline font-weight-bold">{{myData.ad}}</v-card-text>
+    <v-card-text class="headline font-weight-bold">{{myData.Ad}}</v-card-text>
 
     <v-card-actions>
       <v-list-tile class="grow">

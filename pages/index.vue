@@ -1,23 +1,47 @@
 <template>
-
-<div>
-<Carousel/>
-</div>
+   <div>
+     
+       <!-- <Two/> -->
+<br>
+<br>
+       <Card/>
+<br>
+<br>
+<br>
+       <Carousel/>
+       <Panel/>
+       <!-- <Three/> -->
+       <Four/>
+       </div> 
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
+import Two from '~/components/section2.vue'
+import Three from '~/components/section3.vue'
+import Four from '~/components/section4.vue'
 import VuetifyLogo from '~/components/VuetifyLogo.vue'
 import Menu from '~/components/menu.vue'
 import Carousel from '~/components/carousel.vue'
+import Panel from '~/components/panel.vue'
+import Card from '~/components/detailCard.vue'
+
 
 export default {
+
   components: {
-    Logo,
-    VuetifyLogo,
-    Carousel, 
-    Menu
-  },
-  
+    Two,
+    Three,
+    Four,
+    Panel,
+    Card,
+    Carousel
+  }
+
 }
 </script>
+
+<style>
+
+</style>
+
+
