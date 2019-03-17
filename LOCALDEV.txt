@@ -7,3 +7,22 @@ $ npm run dev
    //  over 200,000 with the land valued at over 45,000. Additionally, plans for building a 
    //  multi-family structure will be included with the sale. Owner is leaving state, 
    //  and wants quick sale. Serious offers only.-",
+
+
+  to generate new site:
+
+  1) https://stackoverflow.com/questions/54380719/set-path-to-output-folder-in-nuxt
+
+  set path to output fplder in nuxt.config.js 
+
+  2) $ npx nuxt generate
+
+  3) upload to netlify:
+
+  $ netlify deploy 
+
+  then: $ netlify deploy --prod
+
+  4) the name can be changed after upload by going to site settings for the site and changing name
+
+  https://app.netlify.com/sites/lakecushman/settings/general

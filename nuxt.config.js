@@ -3,7 +3,7 @@ const pkg = require('./package')
 module.exports = {
   mode: 'universal',
 generate: {
-    dir: 'my-dist'
+    dir: 'latrina'
   },
   /*
   ** Headers of the page
