@@ -26,3 +26,7 @@ $ npm run dev
   4) the name can be changed after upload by going to site settings for the site and changing name
 
   https://app.netlify.com/sites/lakecushman/settings/general
+
+  NOTES:
+
+  A) make sure to put new photos into static dir - must be LOWER case png/jpg
